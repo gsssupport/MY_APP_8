@@ -1,0 +1,20 @@
+
+
+
+alter table TRN_TEAM_ACTIVITIES alter column ACTIVITY_STATUS type CHARACTER VARYING(32);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
